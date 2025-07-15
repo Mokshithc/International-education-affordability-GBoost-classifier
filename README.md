@@ -41,3 +41,4 @@ The dataset includes various cost-related attributes of international education 
 ## Usage
 
 Clone the repo and execute .py file in notebook or any other compiler.
+Update the path of the attached dataset while running.
